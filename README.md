@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/85728185/122873688-b1ff8480-d2f7-11eb-8db4-6c559deb9572.png)
 
-# TRANSFERENCIA DE POTENCIA
+# TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
 
 ### Fundamento de circuitos electricos
 ### Ingeniero  Darwin Omar Alulema Flores
