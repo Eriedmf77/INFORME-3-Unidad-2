@@ -54,7 +54,7 @@ _6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω_
 
 ## 4. RESULTADOS
 
-***Calculo  de error**
+**Calculo  de error**
 
 ## 5. VIDEO
 
