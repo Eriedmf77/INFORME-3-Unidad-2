@@ -14,7 +14,7 @@
 
 ***Objetivo general de la practica***
 
-_Analizar y comprobar experimentalmente el método de análisis de nodos para el circuito dado._
+_Analizar y comprobar experimentalmente el Teorema de máxima transferencia de potencia._
 
 ***Objetivos especificos***
 
