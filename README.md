@@ -35,11 +35,58 @@ _6.5.1. Arme el circuito que se muestra en la figura 6.1._
 
 ![image](https://user-images.githubusercontent.com/85259801/127921901-8fab02a5-d044-4b90-8d35-b4ee7b34b369.png)
 
+![image](https://user-images.githubusercontent.com/84418933/127956662-52719d95-9c5c-48ea-ae0f-458896db3b1e.png)
+
+
 _6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos._
 
+_*Para R=220Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956703-895284d3-87d8-417c-9d73-6a38eeac1991.png)
+
+_*Para R=470Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956738-a3f74d7f-16f4-430e-bbbc-e5e3d6ec46f4.png)
+
+_*Para R=680Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956763-c7f240f4-b69f-40d0-9182-beed5966eea9.png)
+
+_*Para R=820Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956793-e5db3f9f-2c4f-43c1-a733-d0bd3b1540a4.png)
+
+_*Para R=1000Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956834-f9000516-4f86-44bf-87da-873e673ba760.png)
+
+_*Para R=1500Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956883-36798ae2-1677-4270-a14c-d745c0db35c6.png)
+
+_*Para R=1800Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956926-eb8d7e0c-c212-4a09-9380-60d57f1f2aac.png)
+
+_*Para R=2200Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956957-d87785cd-a7bf-4291-ba88-78774c9b76b0.png)
+
+_*Para R=3900Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127956993-aef9150b-348c-419c-b743-bb0270a2d2bc.png)
+
+_*Para R=4700Ω_
+
+![image](https://user-images.githubusercontent.com/84418933/127957040-47b16e70-30f3-487c-8f2f-056157b92ba7.png)
+
+
 _6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1._
+
+![image](https://user-images.githubusercontent.com/84418933/127957093-199c90ab-dfae-4f9e-86fd-c2b1819f8b18.png)
+
 
 _Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1._
 
