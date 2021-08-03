@@ -120,9 +120,13 @@ _Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1._
 _6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta._
 
-_6.5.5. ¿Cuál fue la potencia máxima en RL? 46.5124 mWatts en la resistencia de 1000Ω_
+_6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts_
+
+La máxima potencia en RL fue 
 
 _6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω_
+
+_El valor de RL es de 1000 Ω_
 
 ### PLANTEAMIENTO DE ECUACIONES
 
