@@ -22,7 +22,7 @@ _Determinar la corriente que pasa por el circuito para cada resistor del circuit
 
 _Aplicar correctamente las leyes de Ohm para el cálculo de la intensidad para cada resistor en el circuito._
 
-_Calcular la máxima transferencia de potencia que presentan los resistores en el circuito._
+_Calcular la máxima transferencia de potencia que presentan los resistores en el circuito de acuerdo a la fórmula de la potencia._
 
 ## 2. MARCO TEÓRICO 
 
