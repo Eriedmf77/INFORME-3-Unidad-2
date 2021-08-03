@@ -118,3 +118,6 @@ https://youtu.be/kqoGCkupXMs
 ## 6. CONCLUSIONES
 
 ## 7. BIBLIOGRAFÍA 
+
+_Sánchez, E. M. (2018, 2 septiembre). Potencia. Que es la potencia? https://es.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/a/what-is-power_
+
