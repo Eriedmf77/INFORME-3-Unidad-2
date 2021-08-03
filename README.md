@@ -102,7 +102,7 @@ resultados en la tabla 6.1._
 
 **Datos obtenidos experimentalmente**
 
-![image](https://user-images.githubusercontent.com/84418933/128054137-b251407d-6c8f-45f0-8249-390ea7cce759.png)
+![image](https://user-images.githubusercontent.com/85728185/128056105-1922ea5f-4d54-473f-b275-8bb57345f008.png)
 
 
 **Formulas**
