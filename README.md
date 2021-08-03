@@ -21,6 +21,8 @@ _Analizar y comprobar experimentalmente el Teorema de máxima transferencia de p
 
 ## 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85259801/128039547-c3b66e88-0e9d-4cc0-a504-36ef9563f937.png)
+
 
 ## 3. EXPLICACIÓN
 
