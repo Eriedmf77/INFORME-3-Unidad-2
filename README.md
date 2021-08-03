@@ -20,7 +20,7 @@ _Analizar y comprobar experimentalmente el Teorema de máxima transferencia de p
 
 _Determinar la corriente que pasa por el circuito para cada resistor del circuito._
 
-_Aplicar correctamente las leyes de Ohm para el cálculo de la intensidad para cada resistor en el circuito-_
+_Aplicar correctamente las leyes de Ohm para el cálculo de la intensidad para cada resistor en el circuito._
 
 _Calcular la máxima transferencia de potencia que presentan los resistores en el circuito._
 
