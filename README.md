@@ -115,7 +115,8 @@ resultados en la tabla 6.1._
 
 _Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1._
 
-![image](https://user-images.githubusercontent.com/84418933/128054625-7954bf75-e3d5-4cc7-b6a4-f098c3ff54c9.png)
+![image](https://user-images.githubusercontent.com/84418933/128057119-80d582a7-bfea-4f4e-9a19-0ffd3ab78d4f.png)
+
 
 _6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta._
