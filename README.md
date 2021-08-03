@@ -26,6 +26,14 @@ _Calcular la máxima transferencia de potencia que presentan los resistores en e
 
 ## 2. MARCO TEÓRICO 
 
+_La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por
+su resistencia interna RS._
+_El Teorema de la Máxima Transferencia de Potencia establece que:_
+
+_Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia
+de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la
+fuente, RS._
+
 ![image](https://user-images.githubusercontent.com/85259801/128039547-c3b66e88-0e9d-4cc0-a504-36ef9563f937.png)
 
 
