@@ -119,5 +119,7 @@ https://youtu.be/kqoGCkupXMs
 
 ## 7. BIBLIOGRAFÍA 
 
-_Sánchez, E. M. (2018, 2 septiembre). Potencia. Que es la potencia? https://es.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/a/what-is-power_
+_Khan Academy, K. A. (2018, 2 septiembre). Potencia. Que es la potencia? https://es.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/a/what-is-power_
+
+_H.W. Jackson (1959) Introduction to Electronic Circuits, Prentice-Hall._
 
