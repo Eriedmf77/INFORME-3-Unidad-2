@@ -137,6 +137,12 @@ _El valor de RL es de 1000 Ω_
 
 **Calculo  de error**
 
+**Formula**
+
+![image](https://user-images.githubusercontent.com/85728185/128061336-5ee2176f-cacc-4ae7-9b9c-21f62f75fdf7.png)
+
+![image](https://user-images.githubusercontent.com/85728185/128061368-b2df38dc-3431-421c-bb26-3013324ca397.png)
+
 ## 5. VIDEO
 
 https://youtu.be/kqoGCkupXMs
