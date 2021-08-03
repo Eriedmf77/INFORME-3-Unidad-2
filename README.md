@@ -101,7 +101,7 @@ resultados en la tabla 6.1._
 
 ![image](https://user-images.githubusercontent.com/85728185/128052500-e8e28c2f-1208-4a8f-b25a-9da8f1eaa6c9.png)
 
-**Datos calculados**
+**Datos calculados teóricamente**
 
 ![image](https://user-images.githubusercontent.com/85728185/128052560-7abbd72a-0cd8-4b39-b9e7-0fa61385e4dd.png)
 
