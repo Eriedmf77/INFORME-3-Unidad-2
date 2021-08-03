@@ -107,6 +107,8 @@ _6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω_
 
 ## 5. VIDEO
 
+https://youtu.be/kqoGCkupXMs
+
 
 ## 6. CONCLUSIONES
 
