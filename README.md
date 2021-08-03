@@ -123,7 +123,7 @@ respuesta._
 
 _6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts_
 
-La máxima potencia en RL fue 
+La máxima potencia en RL fue 46.51 mW
 
 _6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________ Ω_
 
