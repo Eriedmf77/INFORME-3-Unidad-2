@@ -92,8 +92,13 @@ _*Para R=4700Ω_
 _6.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1._
 
-![image](https://user-images.githubusercontent.com/84418933/128039644-f91338e1-131a-4b40-825e-c0853ab0637f.png)
+**Formulas**
 
+![image](https://user-images.githubusercontent.com/85728185/128052500-e8e28c2f-1208-4a8f-b25a-9da8f1eaa6c9.png)
+
+**Datos calculados**
+
+![image](https://user-images.githubusercontent.com/85728185/128052560-7abbd72a-0cd8-4b39-b9e7-0fa61385e4dd.png)
 
 _Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1._
 
