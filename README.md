@@ -121,6 +121,8 @@ _Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1._
 _6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta._
 
+_Se cumple debido a que la fuente de voltajee entrega la maxima transferencia de potencia a cada valor de las resistencias RL_
+
 _6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts_
 
 La máxima potencia en RL fue 46.51 mW
