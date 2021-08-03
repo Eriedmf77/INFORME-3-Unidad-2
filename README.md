@@ -117,6 +117,9 @@ https://youtu.be/kqoGCkupXMs
 
 ## 6. CONCLUSIONES
 
+_Sabemos que de acuerdo a la intensidad que pasa por un circuito a través de una resistencia, las colisiones que estas producen generan calor debido a la conversión de energía y/o transferencia de energía._
+
+
 ## 7. BIBLIOGRAFÍA 
 
 _Khan Academy, K. A. (2018, 2 septiembre). Potencia. Que es la potencia? https://es.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/a/what-is-power_
